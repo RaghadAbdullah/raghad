@@ -1,0 +1,337 @@
+* {
+margin:0px
+padding:0px
+}
+
+.bgimage{
+  background-image: url("bg-hero-desktop.svg");
+  background-size: 100% 100%;
+  background-color:  #e6faff;
+  padding: 240px;
+
+}
+.img1{
+  position: absolute;
+  left: 59px;
+  top:35px;
+
+}
+.img2 {
+  position: absolute;
+  left:600px;
+  top:100px;
+  right:0px;
+}
+.lehttext{
+  font-family: Arial, Helvetica, sans-serif;
+  width: 25%;
+  line-height:30px;
+  position: absolute;
+  left: 65px;
+  top:160px;
+  }
+  .sansserif {
+  font-family: Arial, Helvetica, sans-serif;
+  width: 45%;
+  line-height:17px;
+  position: absolute;
+  left: 59px;
+  top:240px;
+}
+
+}
+.button1 {
+  position: absolute;
+  left:70px;
+  top:325px;
+  display: inline-block;
+  padding: 10px 50px;
+  font-size: 10px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: white;
+  background-color: #ff66cc;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 3px #999;
+}
+
+.button:hover {background-color:#ff66cc}
+
+.button:active {
+  background-color: #ff66cc;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.button2 {
+  position: absolute;
+  left:59px;
+  top:325px;
+
+  padding: 10px 50px;
+  font-size: 10px;
+
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: white;
+  background-color: #ff66cc;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 3px #999;
+}
+
+
+.button3 {
+  position: absolute;
+  right:59px;
+  top:60px;
+
+  padding: 10px 50px;
+  font-size: 10px;
+
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: black;
+  background-color: white;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 1px #999;
+}
+
+.box1 {
+  position: absolute;
+  top: 600px;
+  left:170px;
+  width: 900px;
+  height: 300px;
+  padding: 15px;
+  background-color: white;
+  box-shadow: 7px 3px 20px grey;
+  font-family: Arial, Helvetica, sans-serif;
+border-radius: 15px;
+  line-height:17px;
+
+}
+.imgbox1{
+  position: absolute;
+  left:560px;
+  top:16px;
+  width: 110%;
+}
+.growtogetxt{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top:80px;
+  left:100px;
+  line-height:17px;
+
+}
+.growtoepara{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top:130px;
+  left:100px;
+  line-height:17px;
+}
+.box2 {
+  position: absolute;
+  top: 960px;
+  left:170px;
+  width: 900px;
+  height: 300px;
+  padding: 15px;
+  background-color: white;
+  box-shadow: 7px 3px 20px grey;
+  border-radius: 15px;
+}
+.imgbox2{
+  position: absolute;
+  left:70px;
+  top:40px;
+  width: 110%;
+}
+.flowingtxt{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top:100px;
+  left: 500px;
+  line-height:17px;
+}
+.flowingpara{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top:140px;
+  left: 500px;
+  line-height:17px;
+}
+.box3 {
+  position: absolute;
+  top: 1316px;
+  left:170px;
+  width: 900px;
+  height: 300px;
+  padding: 15px;
+  background-color: white;
+  box-shadow: 7px 3px 20px grey;
+  font-family: Arial, Helvetica, sans-serif;
+border-radius: 15px;
+  line-height:17px;
+
+}
+.imgbox3{
+  position: absolute;
+  left:530px;
+  top:25px;
+  width: 130%;
+}
+.yourusertxt{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top:80px;
+  left:100px;
+  line-height:17px;
+}
+.youruserpara{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top:130px;
+  left:100px;
+  line-height:17px;
+}
+.box4{
+  position: absolute;
+  top: 1700px;
+  left:380px;
+  width: 480px;
+  height: 130px;
+  padding: 15px;
+  background-color: white;
+  box-shadow: 2px 2px 7px grey;
+  z-index: 10;
+  border-radius: 15px;
+}
+.boxtext{
+  font-family: Arial, Helvetica, sans-serif;
+  position: absolute;
+  top:30px;
+  left:100px;
+  line-height:17px;
+}
+#footer {
+   background-color: #162c38;
+   position: relative;
+   height: 400px;
+   margin-top:1300px;
+
+}
+.button4 {
+  position: absolute;
+  left:160px;
+  top:100px;
+  padding: 10px 50px;
+  font-size: 10px;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: white;
+  background-color: #ff66cc;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 3px #999;
+}
+.footer-content{
+  position: absolute;
+  top:10px;
+  left:40px;
+}
+.footer-bottom{
+position: absolute;
+left:930px;
+top:340px;
+font-family: Arial, Helvetica, sans-serif;
+color: white;
+}
+.footer-locationIcon{
+  position: absolute;
+  top:180px;
+  left:80px;
+}
+.footer-locatiodesc{
+  position: absolute;
+  top:150px;
+  left:120px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+.footer-phoneIcon{
+  position: absolute;
+  top:250px;
+  left:80px;
+}
+.footer-phonenum{
+  position: absolute;
+  top:230px;
+  left:120px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+.footer-emailIcon{
+  position: absolute;
+  top:300px;
+  left:80px;
+}
+.footer-email1{
+  position: absolute;
+  top:280px;
+  left:120px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+}
+ul.menuu{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top:160px;
+  left:490px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  line-height:30px;
+}
+ul.secomenu{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: absolute;
+  top:160px;
+  left:680px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  line-height:30px;
+}
+.facebockIcon{
+  position: absolute;
+  top:160px;
+  left:920px;
+  width: 10px;
+
+}
+.twitterIcon{
+  position: absolute;
+  top:160px;
+  left:950px;
+}
+.instagramIcon{
+  position: absolute;
+  top:160px;
+  left:980px;
+}
+.bottomlogo{
+  position: absolute;
+  top:120px;
+  left:80;
+}
